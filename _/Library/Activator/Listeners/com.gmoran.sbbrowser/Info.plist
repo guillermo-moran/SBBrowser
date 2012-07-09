@@ -1,0 +1,9 @@
+{
+	title = SBBrowser;
+	description = "Open the SpringBoard Browser!";
+	"compatible-modes" = (
+		springboard,
+		application,
+		lockscreen,
+	);
+}
